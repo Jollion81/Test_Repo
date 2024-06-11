@@ -1,0 +1,13 @@
+.container {
+    border: solid 1px black;
+    margin: 10px;
+    padding: 10px;
+    display: flex;
+    width: 100%;
+
+}
+
+.container .row {
+    border: solid 1px red;
+
+}

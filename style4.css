@@ -1,0 +1,32 @@
+.wrapper {
+    display: flex;
+    /* height: 1000px;
+    width: 1000px;
+    border-radius: 20px; */
+}
+
+.wrapper .item1 {
+    background: linear-gradient(45 deg, blue, lightskyblue);
+    height: 200px;
+    width: 200px;
+    border-radius: 20px;
+}
+
+.wrapper .item1 {
+    background: linear-gradient(45 deg, rgb(179, 0, 255), lightskyblue);
+    height: 200px;
+    width: 200px;
+    border-radius: 20px;
+}
+.wrapper .item1 {
+    background: linear-gradient(45 deg, rgb(157, 255, 0), lightskyblue);
+    height: 200px;
+    width: 200px;
+    border-radius: 20px;
+}
+.wrapper .item1 {
+    background: linear-gradient(45 deg, rgb(111, 0, 255), lightskyblue);
+    height: 200px;
+    width: 200px;
+    border-radius: 20px;
+}

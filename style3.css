@@ -1,0 +1,65 @@
+.wrapper {
+    display: flex;
+    flex-direction: row;
+    border-radius: 20px;
+    width: 1000px;
+    height: 1000px;
+    align-items: center;
+    justify-content: center;
+}
+
+.blockOne {
+    flex: 1;
+    background-image: linear-gradient(top, blue, lightskyblue);
+    border-radius: 20px;
+    height: 200px;
+    width: 200px;
+    
+}
+
+.blockTwo {
+    flex: 1;
+    background-image: linear-gradient(top, blue, lightskyblue);
+    border-radius: 20px;
+    height: 200px;
+    width: 200px;
+   
+    }
+
+/* .Continue {
+    display: grid;
+
+  grid-template-columns: 1fr 1fr;
+  gap: 10px 50px;
+  width: 100%;
+  max-width: 800px;
+  padding: 15px 0;
+    
+}
+
+.summary {
+    display: grid;
+    gap: 10px 50px;
+    width: 100%;
+    padding: 15px 0;
+}
+.container3 .twoBlocks .yourResult {
+    background: linear-gradient(0deg, blue, lightskyblue);
+    border-radius: 20px;
+    content: center;
+    width: 100%;
+}
+
+.roundForm {
+
+    background-color: gray;
+    border-radius: curcle;
+    content: center;
+}
+.first {
+    background-color: antiquewhite;
+}
+.reaction {
+    color: rosybrown;
+} */
+
